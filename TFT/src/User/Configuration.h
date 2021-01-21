@@ -121,7 +121,7 @@
  *          HUNGARIAN, TURKISH, GREEK, SLOVENIAN, CATALAN, TRAD_CHINESE,
  *          UKRAINIAN,
  */
-#define DEFAULT_LANGUAGE ENGLISH
+#define DEFAULT_LANGUAGE ITALIAN
 
 /**
  * To add/flash a second language copy the required "language_xx.ini" file from
