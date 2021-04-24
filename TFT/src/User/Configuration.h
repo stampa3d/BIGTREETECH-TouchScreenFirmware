@@ -197,11 +197,11 @@
 
 // Size of machine
 #define X_MIN_POS   0
-#define Y_MIN_POS   0
+#define Y_MIN_POS   -30
 #define Z_MIN_POS   0
-#define X_MAX_POS 235
-#define Y_MAX_POS 235
-#define Z_MAX_POS 250
+#define X_MAX_POS 270
+#define Y_MAX_POS 200
+#define Z_MAX_POS 200
 
 /**
  * Raised Z height for probing
